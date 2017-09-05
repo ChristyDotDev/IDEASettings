@@ -1,0 +1,39 @@
+<application>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="PersistenceGenerationSettings">
+    <option name="addToUnit" value="true" />
+    <option name="ADD_TO_UNIT" value="true" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
+    <option name="TYPE_COOK_LEAVE_OBJECT_PARAMETERIZED_TYPES_RAW" value="false" />
+    <option name="TYPE_COOK_PRODUCE_WILDCARDS" value="true" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="svn+ssh://alaska/var/svn/daxtra" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="svn+ssh://alaska/var/svn/daxtra" />
+      </list>
+    </option>
+  </component>
+  <component name="WebServicesPluginSettings" WritableGeneratedFiles="true">
+    <StubPackage>com.daxtra.common.jaxb.model.hrvacancy</StubPackage>
+    <StubPackage>com.daxtra.models.request</StubPackage>
+    <StubPackage>com.daxtra.common.model</StubPackage>
+    <JAXBUrl>file:/C:/Workspace/Common-Java/src/main/java/com/daxtra/common/jaxb/model/hrvacancy/PositionHeader.xsd</JAXBUrl>
+    <JAXBUrl>file:/C:/Workspace/hwsdb/tmp/request.xsd</JAXBUrl>
+    <JAXBUrl>file:/C:/Workspace/Common/src/main/resources/Resume.xsd</JAXBUrl>
+  </component>
+</application>
