@@ -3,13 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.pm,*.pl" />
     <recentFileMasks>
-      <mask>*.java</mask>
-      <mask>*.p*</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
-      <mask>*.p</mask>
-      <mask>*.pm|</mask>
       <mask>*[.pm]</mask>
       <mask>*.pm]</mask>
       <mask>*.pm</mask>
@@ -20,7 +15,6 @@
       <mask>*.pm,*.pe</mask>
       <mask>*.pm,*.p</mask>
       <mask>*.pm,*.</mask>
-      <mask>*.pm,*.pl</mask>
       <mask>!</mask>
       <mask>!.</mask>
       <mask>!.l</mask>
@@ -33,7 +27,14 @@
       <mask>*[log]</mask>
       <mask>*log]</mask>
       <mask>*og]</mask>
+      <mask>*.pl|</mask>
+      <mask>*.pl</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
       <mask>*</mask>
+      <mask>.</mask>
+      <mask>.pl</mask>
+      <mask>*.pm,*.pl</mask>
     </recentFileMasks>
   </component>
 </application>
