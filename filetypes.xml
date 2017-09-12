@@ -16,6 +16,7 @@
       <mapping ext="dict" type="PLAIN_TEXT" />
       <mapping ext="b64" type="PLAIN_TEXT" />
       <mapping ext="qq" type="VTL" />
+      <mapping ext="vprf" type="XML" />
     </extensionMap>
   </component>
 </application>
