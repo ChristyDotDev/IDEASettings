@@ -7,9 +7,8 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sbt" />
     <recentFileMasks>
-      <mask>*[.pm]</mask>
-      <mask>*.pm]</mask>
       <mask>*.pm</mask>
       <mask>*.pm,</mask>
       <mask>*.pm,*</mask>
@@ -33,11 +32,13 @@
       <mask>*.pl|</mask>
       <mask>*.pl</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
       <mask>.</mask>
       <mask>.pl</mask>
       <mask>*.pm,*.pl</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sbt</mask>
     </recentFileMasks>
   </component>
 </application>
