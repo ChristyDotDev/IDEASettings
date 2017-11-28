@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.pm,*.pl" />
     <recentFileMasks>
       <mask>*.pm,*.perl</mask>
       <mask>*.pm,*.per</mask>
@@ -23,12 +24,8 @@
       <mask>*[log]</mask>
       <mask>*log]</mask>
       <mask>*og]</mask>
-      <mask>*.pl|</mask>
-      <mask>*.pl</mask>
-      <mask>*.p</mask>
       <mask>.</mask>
       <mask>.pl</mask>
-      <mask>*.pm,*.pl</mask>
       <mask>*</mask>
       <mask>*.s</mask>
       <mask>*.sbt</mask>
@@ -36,6 +33,10 @@
       <mask>*.</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.pl|</mask>
+      <mask>*.p</mask>
+      <mask>*.pl</mask>
+      <mask>*.pm,*.pl</mask>
     </recentFileMasks>
   </component>
 </application>
