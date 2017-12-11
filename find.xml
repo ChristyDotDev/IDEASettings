@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sbt" />
     <recentFileMasks>
       <mask>*.pm,*.perl</mask>
       <mask>*.pm,*.per</mask>
@@ -23,17 +24,17 @@
       <mask>*og]</mask>
       <mask>.</mask>
       <mask>.pl</mask>
-      <mask>*</mask>
-      <mask>*.s</mask>
-      <mask>*.sbt</mask>
       <mask>*.sb</mask>
-      <mask>*.</mask>
       <mask>*.jav</mask>
       <mask>*.pl|</mask>
       <mask>*.p</mask>
       <mask>*.pl</mask>
       <mask>*.pm,*.pl</mask>
       <mask>*.java</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sbt</mask>
     </recentFileMasks>
   </component>
 </application>
