@@ -21,6 +21,7 @@
       <mapping ext="b64" type="PLAIN_TEXT" />
       <mapping ext="edu" type="PLAIN_TEXT" />
       <mapping ext="it" type="PLAIN_TEXT" />
+      <mapping ext="hr" type="PLAIN_TEXT" />
       <mapping ext="qq" type="VTL" />
       <mapping ext="vprf" type="XML" />
     </extensionMap>
