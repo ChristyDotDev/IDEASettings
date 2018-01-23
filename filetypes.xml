@@ -11,6 +11,7 @@
       <mapping pattern="package-info" type="PLAIN_TEXT" />
       <mapping pattern="masterKey" type="PLAIN_TEXT" />
       <mapping ext="cv" type="PLAIN_TEXT" />
+      <mapping ext="retail" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="lst" type="PLAIN_TEXT" />
       <mapping ext="health-safety" type="PLAIN_TEXT" />
