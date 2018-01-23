@@ -13,6 +13,7 @@
       <mapping ext="cv" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="lst" type="PLAIN_TEXT" />
+      <mapping ext="health-safety" type="PLAIN_TEXT" />
       <mapping ext="prf" type="PLAIN_TEXT" />
       <mapping ext="general" type="PLAIN_TEXT" />
       <mapping ext="dict" type="PLAIN_TEXT" />
