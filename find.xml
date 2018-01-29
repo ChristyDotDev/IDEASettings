@@ -30,12 +30,12 @@
       <mask>*.pl|</mask>
       <mask>*.p</mask>
       <mask>*.pl</mask>
-      <mask>*.pm,*.pl</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sbt</mask>
       <mask>*.java</mask>
+      <mask>*.pm,*.pl</mask>
     </recentFileMasks>
   </component>
 </application>
