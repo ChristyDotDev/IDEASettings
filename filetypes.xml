@@ -17,6 +17,7 @@
       <mapping ext="health-safety" type="PLAIN_TEXT" />
       <mapping ext="prf" type="PLAIN_TEXT" />
       <mapping ext="general" type="PLAIN_TEXT" />
+      <mapping ext="agriculture" type="PLAIN_TEXT" />
       <mapping ext="dict" type="PLAIN_TEXT" />
       <mapping ext="accountancy" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
