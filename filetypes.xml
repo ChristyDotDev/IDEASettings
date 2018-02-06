@@ -4,12 +4,12 @@
       <mapping pattern="gitignore_global.txt" type="Git file" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="previousversion" type="Markdown" />
-      <mapping pattern="CURL" type="PLAIN_TEXT" />
-      <mapping pattern="test_minimum_vacancy" type="PLAIN_TEXT" />
       <mapping pattern="cti-319153-a" type="PLAIN_TEXT" />
+      <mapping pattern="CURL" type="PLAIN_TEXT" />
+      <mapping pattern="masterKey" type="PLAIN_TEXT" />
       <mapping pattern="minimum_vacancy" type="PLAIN_TEXT" />
       <mapping pattern="package-info" type="PLAIN_TEXT" />
-      <mapping pattern="masterKey" type="PLAIN_TEXT" />
+      <mapping pattern="test_minimum_vacancy" type="PLAIN_TEXT" />
       <mapping ext="cv" type="PLAIN_TEXT" />
       <mapping ext="retail" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
@@ -28,6 +28,7 @@
       <mapping ext="hr" type="PLAIN_TEXT" />
       <mapping ext="qq" type="VTL" />
       <mapping ext="vprf" type="XML" />
+      <mapping pattern=".gitattributes" type="spring.factories" />
     </extensionMap>
   </component>
 </application>
