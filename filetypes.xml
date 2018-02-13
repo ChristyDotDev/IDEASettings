@@ -4,28 +4,29 @@
       <mapping pattern="gitignore_global.txt" type="Git file" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="previousversion" type="Markdown" />
+      <mapping pattern="minimum_vacancy" type="PLAIN_TEXT" />
       <mapping pattern="cti-319153-a" type="PLAIN_TEXT" />
       <mapping pattern="CURL" type="PLAIN_TEXT" />
-      <mapping pattern="masterKey" type="PLAIN_TEXT" />
-      <mapping pattern="minimum_vacancy" type="PLAIN_TEXT" />
-      <mapping pattern="package-info" type="PLAIN_TEXT" />
       <mapping pattern="test_minimum_vacancy" type="PLAIN_TEXT" />
-      <mapping ext="cv" type="PLAIN_TEXT" />
-      <mapping ext="retail" type="PLAIN_TEXT" />
-      <mapping ext="keystore" type="PLAIN_TEXT" />
+      <mapping pattern="masterKey" type="PLAIN_TEXT" />
+      <mapping pattern="package-info" type="PLAIN_TEXT" />
+      <mapping ext="hr" type="PLAIN_TEXT" />
       <mapping ext="lst" type="PLAIN_TEXT" />
-      <mapping ext="health-safety" type="PLAIN_TEXT" />
       <mapping ext="prf" type="PLAIN_TEXT" />
       <mapping ext="general" type="PLAIN_TEXT" />
-      <mapping ext="agriculture" type="PLAIN_TEXT" />
-      <mapping ext="dict" type="PLAIN_TEXT" />
       <mapping ext="accountancy" type="PLAIN_TEXT" />
-      <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
+      <mapping ext="dict" type="PLAIN_TEXT" />
+      <mapping ext="health-safety" type="PLAIN_TEXT" />
+      <mapping ext="agriculture" type="PLAIN_TEXT" />
+      <mapping ext="cv" type="PLAIN_TEXT" />
       <mapping ext="b64" type="PLAIN_TEXT" />
       <mapping ext="catering" type="PLAIN_TEXT" />
-      <mapping ext="edu" type="PLAIN_TEXT" />
+      <mapping ext="retail" type="PLAIN_TEXT" />
+      <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="it" type="PLAIN_TEXT" />
-      <mapping ext="hr" type="PLAIN_TEXT" />
+      <mapping ext="edu" type="PLAIN_TEXT" />
+      <mapping pattern="*.scala.html" type="Scala" />
       <mapping ext="qq" type="VTL" />
       <mapping ext="vprf" type="XML" />
       <mapping pattern=".gitattributes" type="spring.factories" />
