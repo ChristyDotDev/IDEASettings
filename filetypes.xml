@@ -11,6 +11,7 @@
       <mapping pattern="masterKey" type="PLAIN_TEXT" />
       <mapping pattern="package-info" type="PLAIN_TEXT" />
       <mapping ext="hr" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="lst" type="PLAIN_TEXT" />
       <mapping ext="prf" type="PLAIN_TEXT" />
       <mapping ext="general" type="PLAIN_TEXT" />
